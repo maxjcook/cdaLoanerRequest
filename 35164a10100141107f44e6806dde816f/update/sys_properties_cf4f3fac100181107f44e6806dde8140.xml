@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>number of hours to wait between overdue reminders.</description>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_cdltd_loaner_req.overdue.remindtime</name>
+        <read_roles>x_cdltd_loaner_req.admin</read_roles>
+        <suffix>overdue.remindtime</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-11 20:38:14</sys_created_on>
+        <sys_id>cf4f3fac100181107f44e6806dde8140</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_loaner_req.overdue.remindtime</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">35164a10100141107f44e6806dde816f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">35164a10100141107f44e6806dde816f</sys_scope>
+        <sys_update_name>sys_properties_cf4f3fac100181107f44e6806dde8140</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-11 20:38:14</sys_updated_on>
+        <type>integer</type>
+        <value>24</value>
+        <write_roles>x_cdltd_loaner_req.admin</write_roles>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=cf4f3fac100181107f44e6806dde8140"/>
+</record_update>
