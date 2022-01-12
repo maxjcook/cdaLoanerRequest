@@ -23,7 +23,7 @@ while(gr.next()){
 	
  var r = new sn_ws.RESTMessageV2('x_cdltd_loaner_req.Get Lat Long', 'Default GET');
  r.setStringParameterNoEscape('addr', gr.requested_for.city);
- r.setStringParameterNoEscape('country', gr.requested_for.country);
+ r.setStringParameterNoEscape('country', 'us');
  r.setStringParameterNoEscape('lang', 'en');
  r.setStringParameterNoEscape('count', '1');
 
@@ -73,14 +73,14 @@ while(gr.next()){
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-01-12 18:59:53</sys_created_on>
         <sys_id>1ef1b4c5108d81107f44e6806dde812c</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>x_cdltd_loaner_req_Requested for Locatio</sys_name>
         <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">35164a10100141107f44e6806dde816f</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Request">35164a10100141107f44e6806dde816f</sys_scope>
         <sys_update_name>cmn_map_page_1ef1b4c5108d81107f44e6806dde812c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-01-12 19:20:00</sys_updated_on>
+        <sys_updated_on>2022-01-12 19:28:54</sys_updated_on>
         <type>terrain</type>
         <type_selection>buttons</type_selection>
         <use_advanced_configuration>false</use_advanced_configuration>

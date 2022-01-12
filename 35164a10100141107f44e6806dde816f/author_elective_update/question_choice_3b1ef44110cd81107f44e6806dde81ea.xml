@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <order>4</order>
+        <published_ref display_value="Singapore">80ac300110cd81107f44e6806dde81d8</published_ref>
+        <question display_value="Where would you like to pick up this item?">f71ef44110cd81107f44e6806dde81d8</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-12 19:51:11</sys_created_on>
+        <sys_id>3b1ef44110cd81107f44e6806dde81ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Singapore</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">35164a10100141107f44e6806dde816f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">35164a10100141107f44e6806dde816f</sys_scope>
+        <sys_update_name>question_choice_3b1ef44110cd81107f44e6806dde81ea</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-12 19:51:11</sys_updated_on>
+        <text>Singapore</text>
+        <value>singapore</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=3b1ef44110cd81107f44e6806dde81ea"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">35164a10100141107f44e6806dde816f</application>
+        <file_path/>
+        <instance_id>74a66c04db854110d2c8e7970596198b</instance_id>
+        <instance_name>adf-jan-670-dev-005</instance_name>
+        <name>question_choice_3b1ef44110cd81107f44e6806dde81ea</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>4</order><published_ref display_value="Singapore">80ac300110cd81107f44e6806dde81d8</published_ref><question display_value="Where would you like to pick up this item?">f71ef44110cd81107f44e6806dde81d8</question><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-01-12 19:51:11</sys_created_on><sys_id>3b1ef44110cd81107f44e6806dde81ea</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Singapore</sys_name><sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">35164a10100141107f44e6806dde816f</sys_package><sys_policy/><sys_scope display_value="Loaner Request">35164a10100141107f44e6806dde816f</sys_scope><sys_update_name>question_choice_3b1ef44110cd81107f44e6806dde81ea</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-01-12 19:51:11</sys_updated_on><text>Singapore</text><value>singapore</value></question_choice><fx_price action="delete_multiple" query="id=3b1ef44110cd81107f44e6806dde81ea"/></record_update>]]></payload>
+        <payload_hash>-1836206490</payload_hash>
+        <record_name>Singapore</record_name>
+        <reverted_from/>
+        <source>f81d4edc10cd01107f44e6806dde8196</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-12 19:51:11</sys_created_on>
+        <sys_id>ff1ef44110cd81107f44e6806dde81ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17e4fd8227b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-12 19:51:11</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>771ef44178cd8110dbc4be66b4ff3dec</update_guid>
+        <update_guid_history>771ef44178cd8110dbc4be66b4ff3dec:-1836206490</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Singapore">aee1c50510cd81107f44e6806dde81b4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-12 20:07:45</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>075161d9daf64d96808d7c06eb4b1261</sys_id>
+        <sys_metadata>3b1ef44110cd81107f44e6806dde81ea</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Singapore</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">35164a10100141107f44e6806dde816f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">35164a10100141107f44e6806dde816f</sys_scope>
+        <sys_scope_delete display_value="">52140ad786f14ba4bd27ffb59de3a790</sys_scope_delete>
+        <sys_update_name>question_choice_3b1ef44110cd81107f44e6806dde81ea</sys_update_name>
+        <sys_update_version display_value="question_choice_3b1ef44110cd81107f44e6806dde81ea">ff1ef44110cd81107f44e6806dde81ec</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-12 20:07:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
